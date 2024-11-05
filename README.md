@@ -2,10 +2,10 @@
 Welcome to the Stone Paper Scissors Game, a classic and interactive game built using JavaScript! This project is a fun and simple web-based version of the popular game that pits you against the computer in a test of strategy and luck.
 
 # Features
-Simple Gameplay: Choose between Stone, Paper, or Scissors to compete against the computer's random choice.
-Interactive UI: Engaging and easy-to-use interface with responsive feedback.
-Score Tracking: Real-time tracking of your score and the computer’s score to see who’s winning.
-Responsive Design: Optimized for play across different screen sizes.
+Simple Gameplay: Choose between Stone, Paper, or Scissors to compete against the computer's random choice. 
+Interactive UI: Engaging and easy-to-use interface with responsive feedback.   
+Score Tracking: Real-time tracking of your score and the computer’s score to see who’s winning.  
+Responsive Design: Optimized for play across different screen sizes.  
 
 # How to Play
 1] Select either Stone, Paper, or Scissors.
