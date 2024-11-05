@@ -13,7 +13,7 @@ Welcome to the Stone Paper Scissors Game, a classic and interactive game built u
 **3]** The winner is decided based on the classic rules:     
 - Stone crushes Scissors    
 - Scissors cut Paper   
-- Paper wraps Stone   
+- Paper wraps Stone      
 **4]** Scores are updated after each round, and you can continue playing as many rounds as you like!
 
 # Technologies Used
