@@ -17,6 +17,6 @@ Responsive Design: Optimized for play across different screen sizes.
 4] Scores are updated after each round, and you can continue playing as many rounds as you like!
 
 # Technologies Used
-1] HTML for structure
-2] CSS for styling and layout
+1] HTML for structure     
+2] CSS for styling and layout     
 3] JavaScript for game logic and interactions
