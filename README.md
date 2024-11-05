@@ -8,7 +8,7 @@ Score Tracking: Real-time tracking of your score and the computer’s score to s
 Responsive Design: Optimized for play across different screen sizes.  
 
 # How to Play
-1] Select either Stone, Paper, or Scissors.
+1] Select either Stone, Paper, or Scissors.     
 2] The computer will automatically make its choice.
 3] The winner is decided based on the classic rules:
    Stone crushes Scissors
