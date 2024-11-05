@@ -11,7 +11,7 @@ Responsive Design: Optimized for play across different screen sizes.
 1] Select either Stone, Paper, or Scissors.     
 2] The computer will automatically make its choice.           
 3] The winner is decided based on the classic rules:     
-   Stone crushes Scissors    
+     Stone crushes Scissors    
    Scissors cut Paper   
    Paper wraps Stone   
 4] Scores are updated after each round, and you can continue playing as many rounds as you like!
